@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000b\u0000a\u0000c\u0000k\u0000e\u0000n\u0000d\u0000-\u0000m\u0000a\u0000s\u0000t\u0000e\u0000r\u0000y\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divya-sri2014/backend-mastery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+    "type": "module",
+     "bugs": {
+    "url": "https://github.com/divya-sri2014/backend-mastery/issues"
+  },
+  "homepage": "https://github.com/divya-sri2014/backend-mastery#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
